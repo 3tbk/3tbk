@@ -16,9 +16,9 @@ Theoretical physics helps us to make progress in a wide range of fields, includi
 <div class="container">
 <div class="row">
 <center>
-<img src="{{ site.url }}{{ site.baseurl }}/images/banner.jpg" width="100%"/><br/>
-Examples of Feynman diagrams. <br/>
-Feynman R., The theory of positrons. <i>Phys. Rev.</i> (1949)
+<img src="{{ site.url }}{{ site.baseurl }}/images/banner1.jpg" width="100%"/><br/>
+Failures of L-type flaneg joints. <br/>
+T.T. Tran, Understanding the behavior of l-type flange joint in wind turbine towers: Proposed mechanisms <i>Engineering Failure Analysis</i> (2022)
 </center>
 </div>
 </div>
@@ -26,8 +26,10 @@ Feynman R., The theory of positrons. <i>Phys. Rev.</i> (1949)
 
 ### About me
 
-I am a physicist working in the field of quantum mechanics and quantum electrodynamics.
-I received my undergraduate degree in physics from the Massachusetts Institute of Technology (MIT) in 1939 and went on to earn my PhD from Princeton University in 1942.
-After completing my doctoral studies, I worked on the Manhattan Project, where I helped develop the first atomic bombs.
-After the war, I returned to academia, holding teaching and research positions at Cornell and now the California Institute of Technology.
+Thanh-Tuan Tran, Ph.D., is a senior researcher at Energy Innovation Research Center for Wind Turbine Support Structures, Kunsan National University, South Korea. Previously, he served as lecturer at Quy Nhon University (Vietnam) in 12 years.
+
+He received Bachelor and Master degrees in civil engineering from Ho Chi Minh City University of Technology (Vietnam), and Doctorate degree in structural earthquake engineering at Kunsan National University (South Korea). 
+
+His research aims to improve the structural resistance and to limit its risk factors against natural hazards.
+
 
