@@ -64,7 +64,7 @@ permalink: /about/
 
 {% if site.data.grants %}
 <div class="jumbotron">
-### Grants
+### Projects
 <ul>
 {% for grant in site.data.grants %}
  <li> {{ grant.name }} </li>
