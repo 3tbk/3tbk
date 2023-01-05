@@ -1,24 +1,9 @@
-- name: Student Here
-  location: Univesity Here
-  degree: Ph.D. 
-  year: 2022
+- name: Nguyen Thanh Tung, Nguyen Van Hoi, Nguyen Ngoc Sy, Tran Cong Thong 
+  location: Quy Nhon University
+  degree: Reponse of steel tower under environemtal conditions
+  year: 2014
 
-- name: Student Here
-  location: Univesity Here
-  degree: Ph.D. 
-  year: 2021
-
-- name: Student Here
-  location: Univesity Here
-  degree: Ph.D. 
-  year: 2020
-
-- name: Student Here
-  location: Univesity Here
-  degree: M.S.
-  year: 2020
-
-- name: Student Here
-  location: Univesity Here
-  degree: B.S.
-  year: 2020
+- name: Nguyen Tuan Long
+  location: Quy Nhon University
+  degree: 3D-panels: Design and Application
+  year: 2016
