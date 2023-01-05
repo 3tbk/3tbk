@@ -1,7 +1,7 @@
 # Site settings
-title: Richard Feynman
-email: richard@university.edu
-description: Academic webpage of Dr. Richard Feynman
+title: Thanh-Tuan Tran
+email: tranthanhtuan@kunsan.ac.kr
+description: Academic webpage of Dr. Thanh-Tuan Tran
 baseurl: ""
 url: ""
 
@@ -12,18 +12,19 @@ url: ""
 
 # Footer info
 affiliation: >
-    Richard Feynman<br/>
-    Professor of Physics<br/>
-    California Institute of Technology
+    Thanh-Tuan Tran<br/>
+    Research Fellow<br/>
+    Kunsan National University
 
 location: >
-  California Institute of Technology<br/>
-  1200 E California Blvd<br/>
-  Pasadena, CA 91125
+  Room 510-1 (5th floor) Industry-University Cooperation<br/>
+  Kunsan National University<br/>
+  558 Daehak-ro<br/>
+  Jeoolabuk-do, South Korea
 
 contact: >
-    <a href="mailto:richard@university.edu" target="_blank"><i class="fa fa-envelope fa-1x"></i> Contact Richard via email</a> <br/>
-    <a href="https://github.com/sbryngelson/academic-website-template"><i class="fa fa-github fa-1x"></i> Use this site as a template!</a>
+    <a href="mailto:tranthanhtuan@kunsan.ac.kr" target="_blank"><i class="fa fa-envelope fa-1x"></i> Contact Tran via email</a> <br/>
+#    <a href="https://github.com/sbryngelson/academic-website-template"><i class="fa fa-github fa-1x"></i> Use this site as a template!</a>
 
 # Pages shown in navbar
 nav_pages:
