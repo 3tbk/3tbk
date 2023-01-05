@@ -27,7 +27,7 @@ years: [2016, 2017, 2018, 2019, 2020, 2021]
 
 <div class="jumbotron">
 ### Refereed journal articles
-{% Tran --query @A spectral boundary integral method for simulating electrohydrodynamic flows in viscous Tuab %}
+{% bibliography --query @articles %}
 </div>
 
 
