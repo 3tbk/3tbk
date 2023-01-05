@@ -17,18 +17,14 @@ years: [2016, 2017, 2018, 2019, 2020, 2021]
 </style>
 
 <div class="jumbotron">
-### Books
-    Tuab Tran, M., Bryngelson, S. H., & Saintillan, D. (2022). A spectral boundary integral method for simulating electrohydrodynamic flows in viscous drops. arXiv: 2210.04957
-    
+### Books      
 {% bibliography --query @unpublished %}
-    1Tran, M., Bryngelson, S. H., & Saintillan, D. (2022). A spectral boundary integral method for simulating electrohydrodynamic flows in viscous drops. arXiv: 2210.04957.
-    2 Tran, M., Bryngelson, S. H., & Saintillan, D. (2022). A spectral boundary integral method for simulating electrohydrodynamic flows in viscous drops. arXiv: 2210.04957.
 </div>
 
 
 <div class="jumbotron">
 ### Journal articles
-{% bibliography --query @Articles %}
+{% bibliography --query @articles %}
 </div>
 
 
