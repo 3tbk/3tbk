@@ -3,11 +3,7 @@
 
   <body>
 
-    <!-- Google Tag Manager (noscript) -->
-<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-5KBZDTG"
-height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
-<!-- End Google Tag Manager (noscript) -->
-
+  
 <nav class="navbar sticky-top navbar-expand-md navbar-dark bg-dark justify-content-center">
     <div class="container-fluid">
     <a class="navbar-brand" href="/">
