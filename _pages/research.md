@@ -40,9 +40,9 @@ Example description
 </div>
 
 <div class="jumbotron">
+### Books
 <div class="col-md-12 col-sm-12">
-<h5>Example Research2 </h5>
-Example description3 4
-</div>
+<h4>Example Research</h4>
+Example description
 </div>
 
