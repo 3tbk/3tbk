@@ -3,54 +3,6 @@
 
   <body>
 
-  
-<nav class="navbar sticky-top navbar-expand-md navbar-dark bg-dark justify-content-center">
-    <div class="container-fluid">
-    <a class="navbar-brand" href="/">
-        <img src="/favicon.ico" width="30" height="30" style="margin-right:5px" class="d-inline-block align-top" alt="">
-        Comp. Physics @ GT CSE
-    </a>
-    <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
-        <span class="navbar-toggler-icon"></span>
-    </button>
-    <div class="collapse navbar-collapse" id="navbarSupportedContent">
-        <ul class="navbar-nav mr-auto">
-            <li class="nav-item dropdown">
-                <li class="nav-item">
-                  <a class="nav-link" href="/">Home</a>
-                </li> 
-                
-                    <li class="nav-item">
-                        <a class="nav-link" href="/team">Team</a>
-                    </li> 
-                
-                    <li class="nav-item">
-                        <a class="nav-link" href="/papers">Papers</a>
-                    </li> 
-                
-                    <li class="nav-item">
-                        <a class="nav-link" href="/research">Research</a>
-                    </li> 
-                
-                    <li class="nav-item">
-                        <a class="nav-link" href="/teaching">Teaching</a>
-                    </li> 
-                
-                    <li class="nav-item">
-                        <a class="nav-link" href="/software">Software</a>
-                    </li> 
-                
-                    <li class="nav-item">
-                        <a class="nav-link" href="/hardware">Hardware</a>
-                    </li> 
-                
-                <!-- <a class="nav-link" href="/GSCS22">GSCS22</a> -->
-            </li>
-        </ul>
-    </div>
-    </div>
-</nav>
-
 
     <div class="container-fluid">
       <div class="row">
