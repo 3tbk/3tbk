@@ -37,6 +37,11 @@ iframe {
 <h4>Example Research</h4>
 
 Example description
+  <ul>
+        <li>Our group works on <strong>quantum algorithms</strong> for the PDEs that govern fluid flows and other phenomena to gain exponential speedups</li>
+        <li>We develop quantum lattice-based algorithms like quantum lattice Boltzmann and lattice gas</li>
+        <li>Quantum <em>simulation</em> is used to scale our algorithms to large HPC resources for analysis</li>
+      </ul>
 </div>
 </div>
 
