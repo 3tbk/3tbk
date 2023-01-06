@@ -41,7 +41,11 @@ Example description
         <li>Our group works on <strong>quantum algorithms</strong> for the PDEs that govern fluid flows and other phenomena to gain exponential speedups</li>
         <li>We develop quantum lattice-based algorithms like quantum lattice Boltzmann and lattice gas</li>
         <li>Quantum <em>simulation</em> is used to scale our algorithms to large HPC resources for analysis</li>
-      </ul>
+   </ul>
+      <div class="col-md-3 col-sm-12" style="background-color:transparent">
+      <p><img width="100%" src="/images/respic/qlbm.png" /></p>
+    </div>
+  
 </div>
 </div>
 
