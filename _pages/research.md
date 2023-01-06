@@ -75,13 +75,10 @@ This has impacted application-specific treatments, including:</p>
         <li>Cavitation-induced <a href="/papers/trummler-JFM-20.pdf" target="_blank">erosion potential</a> for rough materials</li>
       </ul>
     </div>
-    <div class="col-md-3 col-sm-12" style="background-color:transparent;">
-      <iframe src="https://player.vimeo.com/video/455888052?autoplay=1&amp;loop=1&amp;autopause=0&amp;muted=1&amp;quality=240p&amp;background=1" height="182px" frameborder="0" allow="autoplay"></iframe>
-    </div>
+ 
   </div>
 </div>
 
-<p><!-- <iframe src="https://player.vimeo.com/video/455887852?autoplay=1&loop=1&autopause=0&muted=1&quality=240p&background=1" height="142px" frameborder="0" allow="autoplay"></iframe> --></p>
 
 <div class="jumbotron">
   <div class="row align-items-end">
@@ -101,10 +98,7 @@ Specifically, they</p>
 Our ensemble-averaged bubbly flow model simulates the relevant acoustic phenomena, <a href="/papers/bryngelson-JASA-20.pdf" target="_blank">advancing our interpretation of this behavior</a>.
 Similar outcomes are desirable for sensitive, implanted biomedical devices.</p>
     </div>
-    <div class="col-md-3 col-sm-12">
-      <iframe src="https://player.vimeo.com/video/455688521?autoplay=1&amp;loop=1&amp;autopause=0&amp;muted=1&amp;quality=240p&amp;background=1" height="192px" frameborder="0" allow="autoplay"></iframe>
-    </div>
-  </div>
+   </div>
 </div>
 
 <div class="jumbotron">
@@ -121,10 +115,6 @@ We created an adjoint-based technique for navigating these complications and com
   </div>
 </div>
 
-<script src="/assets/javascript/bootstrap/jquery.min.js"></script>
-<!-- <script src="/assets/javascript/popper/dist/umd/popper.min.js"></script> -->
-<script src="/assets/javascript/bootstrap/bootstrap.bundle.min.js"></script>
-<!-- <script src="/assets/javascript/shb.js"></script> -->
 
 
 
