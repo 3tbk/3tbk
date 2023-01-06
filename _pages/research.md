@@ -36,8 +36,8 @@ iframe {
 <div class="col-md-12 col-sm-12">
 <h4>Example Research</h4>
 
-<p>Computational fluid dynamics simulations use the lion’s share of the world’s HPC resources.
+Computational fluid dynamics simulations use the lion’s share of the world’s HPC resources.
 These simulations are based on PDEs and are thus expensive, both in node hours and dollars.
-They are also inefficient: A staggering quantity of the marshaled computational resources are required to represent the effects of microscopically small features that accumulate to have macroscopic effects.</p>
+They are also inefficient: A staggering quantity of the marshaled computational resources are required to represent the effects of microscopically small features that accumulate to have macroscopic effects.
 </div>
 </div>
