@@ -44,6 +44,8 @@ Example description
         <li>We develop quantum lattice-based algorithms like quantum lattice Boltzmann and lattice gas</li>
         <li>Quantum <em>simulation</em> is used to scale our algorithms to large HPC resources for analysis</li>
    </ul>
+      
+       photo: headshot1.jpg
       <p><img width="100%" src="/images/pshake/fig1.png" /></p>
     
     </div>
