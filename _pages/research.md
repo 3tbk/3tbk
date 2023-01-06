@@ -43,7 +43,7 @@ Example description
         <li>Quantum <em>simulation</em> is used to scale our algorithms to large HPC resources for analysis</li>
    </ul>
       <div class="col-md-3 col-sm-12" style="background-color:transparent">
-      <p><img width="100%" src="/images/respic/qlbm.png" /></p>
+      <p><img width="100%" src="/images/pshake/fig1" /></p>
     </div>
   
 </div>
