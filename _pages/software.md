@@ -47,7 +47,7 @@ iframe {
 <b>Authors:</b>
 <i>Example authors</i>
 
-Example softasdsad a 
+Example fasfa  a 
 
 </div>
 </div>
