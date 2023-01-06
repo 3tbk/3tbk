@@ -39,10 +39,3 @@ Example description
 </div>
 </div>
 
-
-<div class="jumbotron">
-<div class="col-md-12 col-sm-12">
-<h4>Example Research 2</h4>
-Example description
-</div>
-</div>
