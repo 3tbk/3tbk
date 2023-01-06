@@ -37,6 +37,8 @@ iframe {
 <h4>Example Research</h4>
 
 Example description
+    <div class="row align-items-end">
+    <div class="col-md-9 col-sm-12">
   <ul>
         <li>Our group works on <strong>quantum algorithms</strong> for the PDEs that govern fluid flows and other phenomena to gain exponential speedups</li>
         <li>We develop quantum lattice-based algorithms like quantum lattice Boltzmann and lattice gas</li>
@@ -44,7 +46,8 @@ Example description
    </ul>
       <p><img width="100%" src="/images/pshake/fig1.png" /></p>
     
-  
+    </div>
+      </div>
 </div>
 </div>
 
