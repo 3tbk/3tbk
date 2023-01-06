@@ -30,7 +30,7 @@ iframe {
 }
 </style>
 
-## Research
+### Research
 <div class="jumbotron">
   <h4>Quantum computing for partial differential equations</h4>
   <p>Computational fluid dynamics simulations use the lion’s share of the world’s HPC resources.
