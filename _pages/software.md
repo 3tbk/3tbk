@@ -58,7 +58,7 @@ PSHAKE is a program for probabilistic site response analysis based on the Monte 
         <li>material degradation</li>
    </ul>
   <ul>
-    <img src="{{ site.url }}{{ site.baseurl }}/software/pshake/pshake.png" width="100%"/>
+    <img src="{{ site.url }}{{ site.baseurl }}/software/pshake/pshake.png" width="50%"/>
   </ul>
 </div>  
 </div>
@@ -84,7 +84,7 @@ KSMAP is a tool for calculating the peak ground acceleration (PGA) in Korean Pen
         <li>STEP 3: Compute the PGA value (g)</li>
    </ul>
   <ul>
-    <img src="{{ site.url }}{{ site.baseurl }}/software/ksmap/ksmap.png" width="100%"/>
+    <img src="{{ site.url }}{{ site.baseurl }}/software/ksmap/ksmap.png" width="50%"/>
   </ul>
 </div>
 </div>
@@ -120,7 +120,7 @@ VC4OWT is a graphical user interface for vibration control of the OWT structure 
    </ul>
   
   <ul>
-    <img src="{{ site.url }}{{ site.baseurl }}/software/vc4owt/vc4owt.png" width="100%"/>
+    <img src="{{ site.url }}{{ site.baseurl }}/software/vc4owt/vc4owt.png" width="50%"/>
   </ul>
 </div>
 </div>
