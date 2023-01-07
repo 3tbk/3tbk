@@ -38,6 +38,7 @@ iframe {
 
 <div class="jumbotron">
 <div class="row align-items-end">
+  <div class="col-md-12 col-sm-12">   
   <h4><b>PSHAKE: Probabilistic Site Response Analysis</b></h4>
   <a href="https://1drv.ms/u/s!AiUeXuxJtpnDweEUizhx64Z_4dG3hA?e=i9YCoO" target="_blank"><button class="btn btn-success btn-sm">SOURCE</button></a>
   <a href="{{ site.url }}{{ site.baseurl }}/software/pshake/pShake.pdf" target="_blank"><button class="btn btn-info btn-sm">MANUAL</button></a>
@@ -47,6 +48,7 @@ iframe {
   
   <b>Authors:</b>
   <i>Thanh-Tuan Tran and Dookie Kim</i>
+  
   <div class="col-md-6 col-sm-12">      
 PSHAKE is a program for probabilistic site response analysis based on the Monte Carlo Simulation. The solution can consider the uncertainties of geotechnical parameters:
 
@@ -59,11 +61,12 @@ PSHAKE is a program for probabilistic site response analysis based on the Monte 
   </div>
   <div class="col-md-6 col-sm-12" style="background-color:transparent">
    <ul>
-     <p><img src="{{ site.url }}{{ site.baseurl }}/software/pshake/pshake.png" width="70%"/></p>
+     <p><img src="{{ site.url }}{{ site.baseurl }}/software/pshake/pshake.png" width="100%"/></p>
    </ul>
   </div>
     
   </div>
+</div>
 </div>
 
 <div class="jumbotron">
