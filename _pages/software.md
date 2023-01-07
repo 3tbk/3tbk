@@ -56,10 +56,9 @@ PSHAKE is a program for probabilistic site response analysis based on the Monte 
         <li>unit weight</li>
         <li>material degradation</li>
    </ul>
-  
-  
+    
 </div>
-</div>
+  
   <div class="container">
 <div class="row">
 <center>
@@ -70,6 +69,7 @@ Feynman R., The theory of positrons. <i>Phys. Rev.</i> (1949)
 </div>
 </div>
 <br/>
+</div>
 
 
 
