@@ -48,12 +48,12 @@ iframe {
     
 PSHAKE is a program for probabilistic site response analysis based on the Monte Carlo Simulation. The solution can consider the uncertainties of geotechnical parameters:
   <div class="col-md-9 col-sm-12">
-    <ul>
-      <li>shear wave velocity</li>
-      <li>layer thickness</li>
-      <li>unit weight</li>
-      <li>material degradation</li>
-    </ul>
+   <ul>
+        <li>shear wave velocity</li>
+        <li>layer thickness</li>
+        <li>unit weight</li>
+        <li>material degradation</li>
+   </ul>
   </div>
   <div class="col-md-3 col-sm-12" style="background-color:transparent">
     <ul>
