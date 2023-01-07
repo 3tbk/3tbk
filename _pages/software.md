@@ -44,11 +44,11 @@ iframe {
   <a href="{{ site.url }}{{ site.baseurl }}/papers/2020-Tran-ASCE.pdf" target="_blank"><button class="btn btn-danger btn-sm">PAPER</button></a>
   <a href="{{ site.url }}{{ site.baseurl }}/software/pshake/Copyright.pdf" target="_blank"><button class="btn btn-warning btn-sm">COPYRIGHT</button></a>
   
-  <b>Authors:</b>
-  <i>Thanh-Tuan Tran and Dookie Kim</i>
+<b>Authors:</b>
+<i>Thanh-Tuan Tran and Dookie Kim</i>
      
 PSHAKE is a program for probabilistic site response analysis based on the Monte Carlo Simulation. The solution can consider the uncertainties of geotechnical parameters:
-  <div class="col-md-4 col-sm-12"> 
+  <div class="col-md-5 col-sm-12"> 
    <ul>
         <li>shear wave velocity</li>
         <li>layer thickness</li>
@@ -56,7 +56,7 @@ PSHAKE is a program for probabilistic site response analysis based on the Monte 
         <li>material degradation</li>
    </ul>
   </div>
-  <div class="col-md-8 col-sm-12" style="background-color:transparent">
+  <div class="col-md-7 col-sm-12" style="background-color:transparent">
    <ul>
      <p><img src="{{ site.url }}{{ site.baseurl }}/software/pshake/pshake.png" width="50%"/></p>
    </ul>
