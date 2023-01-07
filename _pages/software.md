@@ -110,8 +110,8 @@ VC4OWT is a graphical user interface for vibration control of the OWT structure 
         <li>w/wo friction damper</li>
         <li>w/wo SSI</li>
    </ul>
-  The software consists of four main groups. 
-     <ul>
+ The software consists of four main groups. 
+   <ul>
         <li>Group 1: Input</li>
         <li>Group 2: Analysis cases</li>
         <li>Group 3: Analysis types</li>
