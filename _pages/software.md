@@ -38,7 +38,6 @@ iframe {
 
 <div class="jumbotron">
       <div class="row align-items-end">
-<div class="col-md-12 col-sm-12">
 
 <h4><b>pShake: Probalisitic Site Response Analysis</b></h4>
 <a href="https://1drv.ms/u/s!AiUeXuxJtpnDweEXmoQonnbWbJ9FVw?e=a6NBco" target="_blank"><button class="btn btn-success btn-sm">SOURCE</button></a>
@@ -61,12 +60,11 @@ PSHAKE is a program for probabilistic site response analysis based on the Monte 
         
         <div class="col-md-3 col-sm-12" style="background-color:transparent">
         <ul>
-          <img src="{{ site.url }}{{ site.baseurl }}/software/pshake/pshake.png" width="50%"/>
+          <p><img src="{{ site.url }}{{ site.baseurl }}/software/pshake/pshake.png" width="50%"/></p>
         </ul>
        </div>
   </div>
 
-  </div>
 </div>
 
 
