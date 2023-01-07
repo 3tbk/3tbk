@@ -83,7 +83,7 @@ PSHAKE is a program for probabilistic site response analysis based on the Monte 
   </div>
   
   <div class="col-md-6 col-sm-12"> 
-KSMAP is a tool for calculating the peak ground acceleration (PGA) in Korean Peninsula. The procedure is as below: 
+ <p>KSMAP is a tool for calculating the peak ground acceleration (PGA) in Korean Peninsula. The procedure is as below:</p>
     <ul>
       <li>STEP 1: Select the map (e.g., 2013-0050)</li>
       <li>STEP 2: Set the coordinate from the map</li>
