@@ -43,7 +43,7 @@ iframe {
 <a href="https://1drv.ms/u/s!AiUeXuxJtpnDweEXmoQonnbWbJ9FVw?e=a6NBco" target="_blank"><button class="btn btn-success btn-sm">SOURCE</button></a>
 <a href="{{ site.url }}{{ site.baseurl }}/software/pshake/pShake.pdf" target="_blank"><button class="btn btn-info btn-sm">MANUAL</button></a>
 <a href="{{ site.url }}{{ site.baseurl }}/papers/2020-Tran-ASCE.pdf" target="_blank"><button class="btn btn-danger btn-sm">PAPER</button></a> 
-<a href="{{ site.url }}{{ site.baseurl }}/software/pshake/copyright.pdf" target="_blank"><button class="btn btn-danger btn-sm">COPYRIGHT</button></a> 
+<a href="{{ site.url }}{{ site.baseurl }}/software/pshake/Copyright.pdf" target="_blank"><button class="btn btn-warning btn-sm">COPYRIGHT</button></a> 
 
 
 <b>Authors:</b>
@@ -70,7 +70,7 @@ PSHAKE is a program for probabilistic site response analysis based on the Monte 
 <a href="https://1drv.ms/u/s!AiUeXuxJtpnDweEWKe_Kvf1E-LhNwA?e=Fy5nuE" target="_blank"><button class="btn btn-success btn-sm">SOURCE</button></a>
 <a href="{{ site.url }}{{ site.baseurl }}/software/ksmap/KS-MAP.pdf" target="_blank"><button class="btn btn-info btn-sm">MANUAL</button></a>
 <a href="{{ site.url }}{{ site.baseurl }}/papers/2019-Cao-NT.pdf" target="_blank"><button class="btn btn-danger btn-sm">PAPER</button></a> 
-<a href="{{ site.url }}{{ site.baseurl }}/software/ksmap/copyright.pdf" target="_blank"><button class="btn btn-danger btn-sm">COPYRIGHT</button></a> 
+<a href="{{ site.url }}{{ site.baseurl }}/software/ksmap/copyright.pdf" target="_blank"><button class="btn btn-warning btn-sm">COPYRIGHT</button></a> 
 
 <b>Authors:</b>
 <i>Thanh-Tuan Tran and Dookie Kim</i>
@@ -96,7 +96,9 @@ KSMAP is a tool for calculating the peak ground acceleration (PGA) in Korean Pen
 <h4><b>VC4OWT: Vibration Control of Offshore Wind Turbine</b></h4>
 <a href="https://1drv.ms/u/s!AiUeXuxJtpnDweEmJPFPgx0JaYLRPQ?e=6v4TyY" target="_blank"><button class="btn btn-success btn-sm">SOURCE</button></a>
 <a href="{{ site.url }}{{ site.baseurl }}/software/vc4owt/VC4OWT.pdf" target="_blank"><button class="btn btn-info btn-sm">MANUAL</button></a>
-<a href="{{ site.url }}{{ site.baseurl }}/papers/2018-Tran-VC4OWT.pdf" target="_blank"><button class="btn btn-danger btn-sm">PAPER</button></a> 
+<a href="{{ site.url }}{{ site.baseurl }}/papers/2018-Tran-VSOE.pdf" target="_blank"><button class="btn btn-danger btn-sm">PAPER</button></a> 
+<a href="{{ site.url }}{{ site.baseurl }}/software/vc4owt/copyright.pdf" target="_blank"><button class="btn btn-warning btn-sm">COPYRIGHT</button></a> 
+
 
 <b>Authors:</b>
 <i>Thanh-Tuan Tran, Minh-Luong Le and Dookie Kim</i>
