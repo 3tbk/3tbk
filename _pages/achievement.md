@@ -2,7 +2,7 @@
 title: "Achievement" 
 layout: gridlay
 sitemap: false
-permalink: /publications/
+permalink: /achievement/
 years: [2016, 2017, 2018, 2019, 2020, 2021]
 ---
 
