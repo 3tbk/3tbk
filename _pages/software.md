@@ -47,7 +47,8 @@ iframe {
     
   <b>Authors:</b>
   <i>Thanh-Tuan Tran and Dookie Kim</i>
-</div>
+  </div>
+  
   <div class="col-md-6 col-sm-12">      
 PSHAKE is a program for probabilistic site response analysis based on the Monte Carlo Simulation. The solution can consider the uncertainties of geotechnical parameters:
 
@@ -70,32 +71,32 @@ PSHAKE is a program for probabilistic site response analysis based on the Monte 
 
 <div class="jumbotron">
 <div class="row align-items-end">
-<div class="col-md-12 col-sm-12">
-<h4><b>KSMAP: Korea Seismicity Map</b></h4>
-<a href="https://1drv.ms/u/s!AiUeXuxJtpnDweEWKe_Kvf1E-LhNwA?e=Fy5nuE" target="_blank"><button class="btn btn-success btn-sm">SOURCE</button></a>
-<a href="{{ site.url }}{{ site.baseurl }}/software/ksmap/KS_MAP.pdf" target="_blank"><button class="btn btn-info btn-sm">MANUAL</button></a>
-<a href="{{ site.url }}{{ site.baseurl }}/papers/2019-Cao-NT.pdf" target="_blank"><button class="btn btn-danger btn-sm">PAPER</button></a> 
-<a href="{{ site.url }}{{ site.baseurl }}/software/ksmap/copyright.pdf" target="_blank"><button class="btn btn-warning btn-sm">COPYRIGHT</button></a> 
-
-<b>Authors:</b>
-<i>Thanh-Tuan Tran and Dookie Kim</i>
-</div>
+  <div class="col-md-12 col-sm-12">
+    <h4><b>KSMAP: Korea Seismicity Map</b></h4>
+    <a href="https://1drv.ms/u/s!AiUeXuxJtpnDweEWKe_Kvf1E-LhNwA?e=Fy5nuE" target="_blank"><button class="btn btn-success btn-sm">SOURCE</button></a>
+    <a href="{{ site.url }}{{ site.baseurl }}/software/ksmap/KS_MAP.pdf" target="_blank"><button class="btn btn-info btn-sm">MANUAL</button></a>
+    <a href="{{ site.url }}{{ site.baseurl }}/papers/2019-Cao-NT.pdf" target="_blank"><button class="btn btn-danger btn-sm">PAPER</button></a> 
+    <a href="{{ site.url }}{{ site.baseurl }}/software/ksmap/copyright.pdf" target="_blank"><button class="btn btn-warning btn-sm">COPYRIGHT</button></a> 
+    
+    <b>Authors:</b>
+    <i>Thanh-Tuan Tran and Dookie Kim</i>
+  </div>
+  
   <div class="col-md-6 col-sm-12"> 
 KSMAP is a tool for calculating the peak ground acceleration (PGA) in Korean Peninsula. The procedure is as below: 
-    
-     <ul>
-          <li>STEP 1: Select the map (e.g., 2013-0050)</li>
-          <li>STEP 2: Set the coordinate from the map</li>
-          <li>STEP 3: Compute the PGA value (g)</li>
-     </ul>
+    <ul>
+      <li>STEP 1: Select the map (e.g., 2013-0050)</li>
+      <li>STEP 2: Set the coordinate from the map</li>
+      <li>STEP 3: Compute the PGA value (g)</li>
+    </ul>
   </div>
   <div class="col-md-6 col-sm-12" style="background-color:transparent">
-     <ul>
-          <p><img src="{{ site.url }}{{ site.baseurl }}/software/ksmap/ksmap.png" width="100%"/></p>
-     </ul>
+    <ul>
+      <p><img src="{{ site.url }}{{ site.baseurl }}/software/ksmap/ksmap.png" width="100%"/></p>
+    </ul>
   </div>
-
-</div>
+  
+  </div>
 </div>
 
 
