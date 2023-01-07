@@ -82,18 +82,20 @@ PSHAKE is a program for probabilistic site response analysis based on the Monte 
 </div>
   <div class="col-md-6 col-sm-12"> 
 KSMAP is a tool for calculating the peak ground acceleration (PGA) in Korean Peninsula. The procedure is as below: 
+    
      <ul>
           <li>STEP 1: Select the map (e.g., 2013-0050)</li>
           <li>STEP 2: Set the coordinate from the map</li>
           <li>STEP 3: Compute the PGA value (g)</li>
      </ul>
-    </div>
+  </div>
   <div class="col-md-6 col-sm-12" style="background-color:transparent">
      <ul>
-          <img src="{{ site.url }}{{ site.baseurl }}/software/ksmap/ksmap.png" width="100%"/>
+          <p><img src="{{ site.url }}{{ site.baseurl }}/software/ksmap/ksmap.png" width="100%"/></p>
      </ul>
   </div>
 
+</div>
 </div>
 
 
@@ -110,8 +112,10 @@ KSMAP is a tool for calculating the peak ground acceleration (PGA) in Korean Pen
 
 <b>Authors:</b>
 <i>Thanh-Tuan Tran, Minh-Luong Le and Dookie Kim</i>
-
+</div>
+  <div class="col-md-6 col-sm-12">   
 VC4OWT is a graphical user interface for vibration control of the OWT structure based on OpenSees. The tool can consider the structural performances of OWT in the case of: 
+    
    <ul>
         <li>w/wo friction damper</li>
         <li>w/wo SSI</li>
@@ -124,10 +128,11 @@ VC4OWT is a graphical user interface for vibration control of the OWT structure 
         <li>Group 4: Results</li>
         <li>Group 5: Graphic</li>
    </ul>
-  
-  <ul>
-    <img src="{{ site.url }}{{ site.baseurl }}/software/vc4owt/vc4owt.png" width="50%"/>
-  </ul>
-</div>
+  </div>
+  <div class="col-md-6 col-sm-12" style="background-color:transparent">
+    <ul>
+      <img src="{{ site.url }}{{ site.baseurl }}/software/vc4owt/vc4owt.png" width="50%"/>
+    </ul>
+  </div>
 </div>
 </div>
