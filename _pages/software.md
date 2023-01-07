@@ -58,12 +58,8 @@ PSHAKE is a program for probabilistic site response analysis based on the Monte 
         <li>material degradation</li>
    </ul>
   
-  
-<center>
-<img src="{{ site.url }}{{ site.baseurl }}/images/banner.jpg" width="100%"/><br/>
-Examples of Feynman diagrams. <br/>
-Feynman R., The theory of positrons. <i>Phys. Rev.</i> (1949)
-</center>
+
+  <img src="{{ site.url }}{{ site.baseurl }}/images/banner.jpg" width="100%"/>
 
 
   
