@@ -38,6 +38,7 @@ iframe {
 
 <div class="jumbotron">
   <div class="row align-items-end">
+    <h4><b>PSHAKE: Probabilistic Site Response Analysis</b></h4>
     <a href="{{ site.url }}{{ site.baseurl }}/software/pshake/pShake.pdf" target="_blank"><button class="btn btn-info btn-sm">MANUAL</button></a>
     <a href="{{ site.url }}{{ site.baseurl }}/papers/2020-Tran-ASCE.pdf" target="_blank"><button class="btn btn-danger btn-sm">PAPER</button></a>
     <a href="{{ site.url }}{{ site.baseurl }}/software/pshake/Copyright.pdf" target="_blank"><button class="btn btn-warning btn-sm">COPYRIGHT</button></a>
