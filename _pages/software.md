@@ -37,7 +37,7 @@ iframe {
 ## Software
 
 <div class="jumbotron">
-      <div class="row align-items-end">
+<div class="row align-items-end">
 
 <h4><b>pShake: Probalisitic Site Response Analysis</b></h4>
 <a href="https://1drv.ms/u/s!AiUeXuxJtpnDweEXmoQonnbWbJ9FVw?e=a6NBco" target="_blank"><button class="btn btn-success btn-sm">SOURCE</button></a>
@@ -60,11 +60,10 @@ PSHAKE is a program for probabilistic site response analysis based on the Monte 
         
         <div class="col-md-3 col-sm-12" style="background-color:transparent">
         <ul>
-          <p><img src="{{ site.url }}{{ site.baseurl }}/software/pshake/pshake.png" width="50%"/></p>
+           <img src="{{ site.url }}{{ site.baseurl }}/software/pshake/pshake.png" width="50%"/>
         </ul>
        </div>
-  </div>
-
+</div>
 </div>
 
 
@@ -81,14 +80,14 @@ PSHAKE is a program for probabilistic site response analysis based on the Monte 
 <i>Thanh-Tuan Tran and Dookie Kim</i>
 
 KSMAP is a tool for calculating the peak ground acceleration (PGA) in Korean Peninsula. The procedure is as below: 
-   <ul>
-        <li>STEP 1: Select the map (e.g., 2013-0050)</li>
-        <li>STEP 2: Set the coordinate from the map</li>
-        <li>STEP 3: Compute the PGA value (g)</li>
-   </ul>
-  <ul>
-    <img src="{{ site.url }}{{ site.baseurl }}/software/ksmap/ksmap.png" width="50%"/>
-  </ul>
+     <ul>
+          <li>STEP 1: Select the map (e.g., 2013-0050)</li>
+          <li>STEP 2: Set the coordinate from the map</li>
+          <li>STEP 3: Compute the PGA value (g)</li>
+     </ul>
+     <ul>
+          <img src="{{ site.url }}{{ site.baseurl }}/software/ksmap/ksmap.png" width="50%"/>
+     </ul>
 </div>
 </div>
 </div>
