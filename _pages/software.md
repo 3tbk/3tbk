@@ -37,33 +37,32 @@ iframe {
 ## Software
 
 <div class="jumbotron">
-<div class="row align-items-end">
-
-<h4><b>pShake: Probalisitic Site Response Analysis</b></h4>
-<a href="https://1drv.ms/u/s!AiUeXuxJtpnDweEXmoQonnbWbJ9FVw?e=a6NBco" target="_blank"><button class="btn btn-success btn-sm">SOURCE</button></a>
-<a href="{{ site.url }}{{ site.baseurl }}/software/pshake/pShake.pdf" target="_blank"><button class="btn btn-info btn-sm">MANUAL</button></a>
-<a href="{{ site.url }}{{ site.baseurl }}/papers/2020-Tran-ASCE.pdf" target="_blank"><button class="btn btn-danger btn-sm">PAPER</button></a> 
-<a href="{{ site.url }}{{ site.baseurl }}/software/pshake/Copyright.pdf" target="_blank"><button class="btn btn-warning btn-sm">COPYRIGHT</button></a> 
-
-<b>Authors:</b>
-<i>Thanh-Tuan Tran and Dookie Kim</i>
+  <div class="row align-items-end">
+    <h4><b>pShake: Probalisitic Site Response Analysis</b></h4>
+    <a href="https://1drv.ms/u/s!AiUeXuxJtpnDweEXmoQonnbWbJ9FVw?e=a6NBco" target="_blank"><button class="btn btn-success btn-sm">SOURCE</button></a>
+    <a href="{{ site.url }}{{ site.baseurl }}/software/pshake/pShake.pdf" target="_blank"><button class="btn btn-info btn-sm">MANUAL</button></a>
+    <a href="{{ site.url }}{{ site.baseurl }}/papers/2020-Tran-ASCE.pdf" target="_blank"><button class="btn btn-danger btn-sm">PAPER</button></a> 
+    <a href="{{ site.url }}{{ site.baseurl }}/software/pshake/Copyright.pdf" target="_blank"><button class="btn btn-warning btn-sm">COPYRIGHT</button></a> 
+    
+    <b>Authors:</b>
+    <i>Thanh-Tuan Tran and Dookie Kim</i>
 
 PSHAKE is a program for probabilistic site response analysis based on the Monte Carlo Simulation. The solution can consider the uncertainties of geotechnical parameters:
-  
-  <div class="col-md-9 col-sm-12">
-     <ul>
-       <li>shear wave velocity</li>
-       <li>layer thickness</li>
-       <li>unit weight</li>
-       <li>material degradation</li>
-     </ul>
+    <div class="col-md-9 col-sm-12">
+      <ul>
+        <li>shear wave velocity</li>
+        <li>layer thickness</li>
+        <li>unit weight</li>
+        <li>material degradation</li>
+      </ul>
     </div>
-  <div class="col-md-3 col-sm-12" style="background-color:transparent">
-    <ul>
-      <img src="{{ site.url }}{{ site.baseurl }}/software/pshake/pshake.png" width="100%"/>
-    </ul>
+    
+    <div class="col-md-3 col-sm-12" style="background-color:transparent">
+      <ul>
+        <p><img src="{{ site.url }}{{ site.baseurl }}/software/pshake/pshake.png" width="100%"/></p>
+      </ul>
+    </div>
   </div>
-</div>
 </div>
 
 
