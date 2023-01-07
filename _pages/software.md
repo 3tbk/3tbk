@@ -68,7 +68,7 @@ PSHAKE is a program for probabilistic site response analysis based on the Monte 
 <div class="col-md-12 col-sm-12">
 <h4><b>KSMAP: Korea Seismicity Map</b></h4>
 <a href="https://1drv.ms/u/s!AiUeXuxJtpnDweEWKe_Kvf1E-LhNwA?e=Fy5nuE" target="_blank"><button class="btn btn-success btn-sm">SOURCE</button></a>
-<a href="{{ site.url }}{{ site.baseurl }}/software/ksmap/KS-MAP.pdf" target="_blank"><button class="btn btn-info btn-sm">MANUAL</button></a>
+<a href="{{ site.url }}{{ site.baseurl }}/software/ksmap/KS_MAP.pdf" target="_blank"><button class="btn btn-info btn-sm">MANUAL</button></a>
 <a href="{{ site.url }}{{ site.baseurl }}/papers/2019-Cao-NT.pdf" target="_blank"><button class="btn btn-danger btn-sm">PAPER</button></a> 
 <a href="{{ site.url }}{{ site.baseurl }}/software/ksmap/copyright.pdf" target="_blank"><button class="btn btn-warning btn-sm">COPYRIGHT</button></a> 
 
@@ -96,7 +96,7 @@ KSMAP is a tool for calculating the peak ground acceleration (PGA) in Korean Pen
 <h4><b>VC4OWT: Vibration Control of Offshore Wind Turbine</b></h4>
 <a href="https://1drv.ms/u/s!AiUeXuxJtpnDweEmJPFPgx0JaYLRPQ?e=6v4TyY" target="_blank"><button class="btn btn-success btn-sm">SOURCE</button></a>
 <a href="{{ site.url }}{{ site.baseurl }}/software/vc4owt/VC4OWT.pdf" target="_blank"><button class="btn btn-info btn-sm">MANUAL</button></a>
-<a href="{{ site.url }}{{ site.baseurl }}/papers/2018-Tran-VSOE.pdf" target="_blank"><button class="btn btn-danger btn-sm">PAPER</button></a> 
+<a href="{{ site.url }}{{ site.baseurl }}/papers/2018-Tran-VSOE.PDF" target="_blank"><button class="btn btn-danger btn-sm">PAPER</button></a> 
 <a href="{{ site.url }}{{ site.baseurl }}/software/vc4owt/copyright.pdf" target="_blank"><button class="btn btn-warning btn-sm">COPYRIGHT</button></a> 
 
 
