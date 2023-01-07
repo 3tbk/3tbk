@@ -46,7 +46,8 @@ iframe {
   <b>Authors:</b>
   <i>Thanh-Tuan Tran and Dookie Kim</i>
     
-PSHAKE is a program for probabilistic site response analysis based on the Monte Carlo Simulation. The solution can consider the uncertainties of geotechnical parameters:    
+PSHAKE is a program for probabilistic site response analysis based on the Monte Carlo Simulation. The solution can consider the uncertainties of geotechnical parameters:
+  
     <div class="col-md-9 col-sm-12">
       <ul>
         <li>shear wave velocity</li>
