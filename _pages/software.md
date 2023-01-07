@@ -40,8 +40,8 @@ iframe {
 <div class="row align-items-end">
 <div class="col-md-12 col-sm-12">
 <h4><b>pShake: Probalisitic Site Response Analysis</b></h4>
-<a href="https://1drv.ms/u/s!AiUeXuxJtpnDweEUKGt3Clb1dil_Nw?e=HWeL5X" target="_blank"><button class="btn btn-success btn-sm">SOURCE</button></a>
-<a href="{software/pshake/pshake.pdf" target="_blank"><button class="btn btn-info btn-sm">MANUAL</button></a>
+<a href="https://1drv.ms/u/s!AiUeXuxJtpnDweEXmoQonnbWbJ9FVw?e=a6NBco" target="_blank"><button class="btn btn-success btn-sm">SOURCE</button></a>
+<a href="{{ site.url }}{{ site.baseurl }}/software/pshake/pShake.pdf" target="_blank"><button class="btn btn-info btn-sm">MANUAL</button></a>
 <a href="{{ site.url }}{{ site.baseurl }}/papers/2020-Tran-ASCE.pdf" target="_blank"><button class="btn btn-danger btn-sm">PAPER</button></a> 
 
 <b>Authors:</b>
@@ -53,6 +53,29 @@ pShake is a program for probabilistic site response analysis based on the Monte 
         <li>layer thickness</li>
         <li>unit weight</li>
         <li>material degradation</li>
+   </ul>
+
+</div>
+</div>
+</div>
+
+# ====== KSMAP
+<div class="jumbotron">
+<div class="row align-items-end">
+<div class="col-md-12 col-sm-12">
+<h4><b>KSMAP: Korea Seismicity Map</b></h4>
+<a href="https://1drv.ms/u/s!AiUeXuxJtpnDweEWKe_Kvf1E-LhNwA?e=Fy5nuE" target="_blank"><button class="btn btn-success btn-sm">SOURCE</button></a>
+<a href="{{ site.url }}{{ site.baseurl }}/software/ksmap/KS-MAP.pdf" target="_blank"><button class="btn btn-info btn-sm">MANUAL</button></a>
+<a href="{{ site.url }}{{ site.baseurl }}/papers/2019-Cao-NT.pdf" target="_blank"><button class="btn btn-danger btn-sm">PAPER</button></a> 
+
+<b>Authors:</b>
+<i>Thanh-Tuan Tran and Dookie Kim</i>
+
+KSMAP is a tool for calculating the peak ground acceleration (PGA) in Korean Peninsula. The procedure is as below: 
+   <ul>
+        <li>STEP 1: Select the map (e.g., 2013-0050).</li>
+        <li>STEP 2: Set the coordinate from the map</li>
+        <li>STEP 3: Compute the PGA value (g)</li>
    </ul>
 
 </div>
