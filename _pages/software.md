@@ -57,7 +57,7 @@ PSHAKE is a program for probabilistic site response analysis based on the Monte 
         <li>unit weight</li>
         <li>material degradation</li>
    </ul>
-  </ul>
+  <ul>
     <img src="{{ site.url }}{{ site.baseurl }}/images/banner.jpg" width="100%"/>
   </ul>
 </div>  
