@@ -42,7 +42,7 @@ iframe {
 <h4><b>pShake: Probalisitic Site Response Analysis</b></h4>
 <a href="https://1drv.ms/u/s!AiUeXuxJtpnDweEUKGt3Clb1dil_Nw?e=HWeL5X" target="_blank"><button class="btn btn-success btn-sm">SOURCE</button></a>
 <a href="{software/pshake/pshake.pdf" target="_blank"><button class="btn btn-info btn-sm">MANUAL</button></a>
-<a href="{{ site.url }}{{ site.baseurl }}/papers/example_proceeding.pdf" target="_blank"><button class="btn btn-danger btn-sm">PAPER</button></a> 
+<a href="{{ site.url }}{{ site.baseurl }}/papers/2020-Tran-ASCE.pdf" target="_blank"><button class="btn btn-danger btn-sm">PAPER</button></a> 
 
 <b>Authors:</b>
 <i>Thanh-Tuan Tran and Dookie Kim</i>
