@@ -43,11 +43,13 @@ iframe {
 <a href="https://1drv.ms/u/s!AiUeXuxJtpnDweEXmoQonnbWbJ9FVw?e=a6NBco" target="_blank"><button class="btn btn-success btn-sm">SOURCE</button></a>
 <a href="{{ site.url }}{{ site.baseurl }}/software/pshake/pShake.pdf" target="_blank"><button class="btn btn-info btn-sm">MANUAL</button></a>
 <a href="{{ site.url }}{{ site.baseurl }}/papers/2020-Tran-ASCE.pdf" target="_blank"><button class="btn btn-danger btn-sm">PAPER</button></a> 
+<a href="{{ site.url }}{{ site.baseurl }}/software/pshake/copyright.pdf" target="_blank"><button class="btn btn-danger btn-sm">COPYRIGHT</button></a> 
+
 
 <b>Authors:</b>
 <i>Thanh-Tuan Tran and Dookie Kim</i>
 
-pShake is a program for probabilistic site response analysis based on the Monte Carlo Simulation. The solution can consider the uncertainties of geotechnical parameters: 
+PSHAKE is a program for probabilistic site response analysis based on the Monte Carlo Simulation. The solution can consider the uncertainties of geotechnical parameters: 
    <ul>
         <li>shear wave velocity</li>
         <li>layer thickness</li>
@@ -59,7 +61,8 @@ pShake is a program for probabilistic site response analysis based on the Monte 
 </div>
 </div>
 
-# ====== KSMAP
+
+
 <div class="jumbotron">
 <div class="row align-items-end">
 <div class="col-md-12 col-sm-12">
@@ -67,15 +70,41 @@ pShake is a program for probabilistic site response analysis based on the Monte 
 <a href="https://1drv.ms/u/s!AiUeXuxJtpnDweEWKe_Kvf1E-LhNwA?e=Fy5nuE" target="_blank"><button class="btn btn-success btn-sm">SOURCE</button></a>
 <a href="{{ site.url }}{{ site.baseurl }}/software/ksmap/KS-MAP.pdf" target="_blank"><button class="btn btn-info btn-sm">MANUAL</button></a>
 <a href="{{ site.url }}{{ site.baseurl }}/papers/2019-Cao-NT.pdf" target="_blank"><button class="btn btn-danger btn-sm">PAPER</button></a> 
+<a href="{{ site.url }}{{ site.baseurl }}/software/ksmap/copyright.pdf" target="_blank"><button class="btn btn-danger btn-sm">COPYRIGHT</button></a> 
 
 <b>Authors:</b>
 <i>Thanh-Tuan Tran and Dookie Kim</i>
 
 KSMAP is a tool for calculating the peak ground acceleration (PGA) in Korean Peninsula. The procedure is as below: 
    <ul>
-        <li>STEP 1: Select the map (e.g., 2013-0050).</li>
+        <li>STEP 1: Select the map (e.g., 2013-0050)</li>
         <li>STEP 2: Set the coordinate from the map</li>
         <li>STEP 3: Compute the PGA value (g)</li>
+   </ul>
+
+</div>
+</div>
+</div>
+
+
+
+
+
+<div class="jumbotron">
+<div class="row align-items-end">
+<div class="col-md-12 col-sm-12">
+<h4><b>VC4OWT: Vibration Control of Offshore Wind Turbine</b></h4>
+<a href="https://1drv.ms/u/s!AiUeXuxJtpnDweEmJPFPgx0JaYLRPQ?e=6v4TyY" target="_blank"><button class="btn btn-success btn-sm">SOURCE</button></a>
+<a href="{{ site.url }}{{ site.baseurl }}/software/vc4owt/VC4OWT.pdf" target="_blank"><button class="btn btn-info btn-sm">MANUAL</button></a>
+<a href="{{ site.url }}{{ site.baseurl }}/papers/2018-Tran-VC4OWT.pdf" target="_blank"><button class="btn btn-danger btn-sm">PAPER</button></a> 
+
+<b>Authors:</b>
+<i>Thanh-Tuan Tran, Minh-Luong Le and Dookie Kim</i>
+
+VC4OWT is a graphical user interface for vibration control of the OWT structure based on OpenSees. The tool can consider the structural performances of OWT in the case of: 
+   <ul>
+        <li>w/wo friction damper</li>
+        <li>w/wo SSI</li>
    </ul>
 
 </div>
