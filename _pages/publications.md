@@ -18,7 +18,7 @@ years: [2016, 2017, 2018, 2019, 2020, 2021]
 
 <div class="jumbotron">
 ### Invited talks
-{% bibliography --query @talk %}
+{% bibliography --query @misc %}
 </div>
 
 
