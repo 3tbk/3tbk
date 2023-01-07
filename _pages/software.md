@@ -39,6 +39,8 @@ iframe {
 <div class="jumbotron">
 <div class="row align-items-end">
 <div class="col-md-12 col-sm-12">
+  <div class="row">
+    
 <h4><b>pShake: Probalisitic Site Response Analysis</b></h4>
 <a href="https://1drv.ms/u/s!AiUeXuxJtpnDweEXmoQonnbWbJ9FVw?e=a6NBco" target="_blank"><button class="btn btn-success btn-sm">SOURCE</button></a>
 <a href="{{ site.url }}{{ site.baseurl }}/software/pshake/pShake.pdf" target="_blank"><button class="btn btn-info btn-sm">MANUAL</button></a>
@@ -56,12 +58,15 @@ PSHAKE is a program for probabilistic site response analysis based on the Monte 
         <li>unit weight</li>
         <li>material degradation</li>
    </ul>
-    <center>
-      <img src="{{ site.url }}{{ site.baseurl }}/images/banner.jpg" width="100%"/><br/>
-      Examples of Feynman diagrams. <br/>
-      Feynman R., The theory of positrons. <i>Phys. Rev.</i> (1949)
-    </center>
   
+  
+<center>
+<img src="{{ site.url }}{{ site.baseurl }}/images/banner.jpg" width="100%"/><br/>
+Examples of Feynman diagrams. <br/>
+Feynman R., The theory of positrons. <i>Phys. Rev.</i> (1949)
+</center>
+</div>
+
   
 </div>
   
