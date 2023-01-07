@@ -42,6 +42,7 @@ iframe {
   <a href="{{ site.url }}{{ site.baseurl }}/software/pshake/pShake.pdf" target="_blank"><button class="btn btn-info btn-sm">MANUAL</button></a>
   <a href="{{ site.url }}{{ site.baseurl }}/papers/2020-Tran-ASCE.pdf" target="_blank"><button class="btn btn-danger btn-sm">PAPER</button></a>
   <a href="{{ site.url }}{{ site.baseurl }}/software/pshake/Copyright.pdf" target="_blank"><button class="btn btn-warning btn-sm">COPYRIGHT</button></a>
+  
   <b>Authors:</b>
   <i>Thanh-Tuan Tran and Dookie Kim</i>
     
