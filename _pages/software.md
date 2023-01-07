@@ -83,12 +83,12 @@ KSMAP is a tool for calculating the peak ground acceleration (PGA) in Korean Pen
         <li>STEP 2: Set the coordinate from the map</li>
         <li>STEP 3: Compute the PGA value (g)</li>
    </ul>
-
+  <ul>
+    <img src="{{ site.url }}{{ site.baseurl }}/software/ksmap/ksmap.png" width="100%"/>
+  </ul>
 </div>
 </div>
 </div>
-
-
 
 
 
@@ -110,7 +110,18 @@ VC4OWT is a graphical user interface for vibration control of the OWT structure 
         <li>w/wo friction damper</li>
         <li>w/wo SSI</li>
    </ul>
-
+  The software consists of four main groups. 
+     <ul>
+        <li>Group 1: Input</li>
+        <li>Group 2: Analysis cases</li>
+        <li>Group 3: Analysis types</li>
+        <li>Group 4: Results</li>
+        <li>Group 5: Graphic</li>
+   </ul>
+  
+  <ul>
+    <img src="{{ site.url }}{{ site.baseurl }}/software/vc4owt/vc4owt.png" width="100%"/>
+  </ul>
 </div>
 </div>
 </div>
