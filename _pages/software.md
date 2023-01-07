@@ -40,8 +40,8 @@ iframe {
 <div class="row align-items-end">
 <div class="col-md-12 col-sm-12">
 <h4><b>pShake: Probalisitic Site Response Analysis</b></h4>
-<a href="https://example.com" target="_blank"><button class="btn btn-success btn-sm">WEBSITE</button></a>
-<a href="https://github.com" target="_blank"><button class="btn btn-info btn-sm">GIT</button></a>
+<a href="https://www.dropbox.com/s/1tywhi0ycrhnggo/pShake.pdf?dl=0" target="_blank"><button class="btn btn-success btn-sm">SOURCE</button></a>
+<a href="https://www.dropbox.com/s/1tywhi0ycrhnggo/pShake.pdf?dl=0" target="_blank"><button class="btn btn-info btn-sm">MANUAL</button></a>
 <a href="{{ site.url }}{{ site.baseurl }}/papers/example_proceeding.pdf" target="_blank"><button class="btn btn-danger btn-sm">PAPER</button></a> 
 
 <b>Authors:</b>
