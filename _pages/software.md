@@ -39,7 +39,6 @@ iframe {
 <div class="jumbotron">
 <div class="row align-items-end">
 <div class="col-md-12 col-sm-12">
-  <div class="row">
     
 <h4><b>pShake: Probalisitic Site Response Analysis</b></h4>
 <a href="https://1drv.ms/u/s!AiUeXuxJtpnDweEXmoQonnbWbJ9FVw?e=a6NBco" target="_blank"><button class="btn btn-success btn-sm">SOURCE</button></a>
@@ -65,7 +64,7 @@ PSHAKE is a program for probabilistic site response analysis based on the Monte 
 Examples of Feynman diagrams. <br/>
 Feynman R., The theory of positrons. <i>Phys. Rev.</i> (1949)
 </center>
-</div>
+
 
   
 </div>
