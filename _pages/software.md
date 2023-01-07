@@ -58,11 +58,9 @@ PSHAKE is a program for probabilistic site response analysis based on the Monte 
          </ul>
       </div>
     
-      <div class="col-md-3 col-sm-12">   
         <ul>
           <img src="{{ site.url }}{{ site.baseurl }}/software/pshake/pshake.png" width="50%"/>
         </ul>
-      </div>  
  
   </div>
 </div>
