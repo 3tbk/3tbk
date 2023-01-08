@@ -34,25 +34,12 @@ iframe {
 
 <div class="jumbotron">
 <div class="col-md-12 col-sm-12">
-<h4>Example Research</h4>
+<h4> Research</h4>
 
-Example description
-    
-  <ul>
-        <li>Our group works on <strong>quantum algorithms</strong> for the PDEs that govern fluid flows and other phenomena to gain exponential speedups</li>
-        <li>We develop quantum lattice-based algorithms like quantum lattice Boltzmann and lattice gas</li>
-        <li>Quantum <em>simulation</em> is used to scale our algorithms to large HPC resources for analysis</li>
-   </ul>
-      <p><img width="100%" src="/images/pshake/fig1.png" /></p>
+ description
+ 
     
    
 </div>
 </div>
 
-<div class="jumbotron">
-<div class="col-md-12 col-sm-12">
-<h4>Example Research</h4>
-
-Example description
-</div>
-</div>
