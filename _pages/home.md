@@ -7,7 +7,8 @@ permalink: /
 
 ### Welcome!
 
-Welcome to Dr. Tran's page. 
+Welcome to Dr. Tran's page. <br/>
+During the operating conditions, the structural components (i.e., flange joint) can fail, leading to the complete failure of the structure. Therefore, it is necessary to understand the performance of these components in practical design. <br/>
 My works aim on the development and enhancement of structural designs to improve their durability and performance against natural hazards. 
 
 <div class="container">
