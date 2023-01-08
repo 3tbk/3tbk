@@ -12,22 +12,23 @@ My works aim on the development and enhancement of structural designs to improve
 
 <div class="container">
 <div class="row">
-<center>
+
     <div class="col-md-6 col-sm-12" style="background-color:transparent"> 
    <ul>
      <p><img src="{{ site.url }}{{ site.baseurl }}/images/failure-tower.png" width="100%"/></p>
-     Failures of L-type flaneg joints.
+     Failures of tower shell.
    </ul>
   </div>
       
   <div class="col-md-6 col-sm-12" style="background-color:transparent">
    <ul>
-     <p><img src="{{ site.url }}{{ site.baseurl }}/software/uqssl/uqssl2.png" width="100%"/></p>
+     <p><img src="{{ site.url }}{{ site.baseurl }}/images/failure-flange joint.png" width="100%"/></p>
+     Failures of L-type flange joints.
    </ul>
   </div>
   
 
-</center>
+
 </div>
 </div>
 <br/>
