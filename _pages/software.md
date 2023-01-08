@@ -101,6 +101,43 @@ KSMAP is a tool for calculating the peak ground acceleration (PGA) in Korean Pen
 </div>
 
 
+
+<div class="jumbotron">
+<div class="row align-items-end">
+  <div class="col-md-12 col-sm-12">   
+  <h4><b>UQSSL: Uncertainty Quantification in Structural Seismic Responses </b></h4>
+  <a href="{{ site.url }}{{ site.baseurl }}/papers/2019-Tran-NED.PDF" target="_blank"><button class="btn btn-danger btn-sm">PAPER</button></a> 
+  
+  <b>Authors:</b>
+  <i>Thanh-Tuan Tran</i>
+    
+Program UQSSL has been developed and implemented in MATLAB environment. A main process of probabilistically solving the stated in the following steps:
+
+   <ul>
+        <li>Determine the statistical parameters of the structural properties</li>
+        <li>Generate a set of input variables, in terms of number, n, (number of interval) and shape (triangular, trapezoidal, Gaussian) of the fuzzy inputs</li>
+        <li>Perform analysis by solving the EoM for each input variables in step 2 to calculate the outputs</li>
+        <li>Statistical analysis of the results and determine the related input and outputs</li>
+   </ul>
+
+  </div>
+  <div class="col-md-6 col-sm-12">  
+     <ul>
+     <p><img src="{{ site.url }}{{ site.baseurl }}/software/uqssl/uqssl.png" width="100%"/></p>
+   </ul>
+  </div>
+      
+  <div class="col-md-6 col-sm-12" style="background-color:transparent">
+   <ul>
+     <p><img src="{{ site.url }}{{ site.baseurl }}/software/uqssl/uqssl2.png" width="100%"/></p>
+   </ul>
+  </div>
+    
+  </div>
+</div>
+
+
+
 <div class="jumbotron">
 <div class="row align-items-end">
   <div class="col-md-12 col-sm-12">   
