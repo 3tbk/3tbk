@@ -118,12 +118,10 @@ Program UQSSL has been developed and implemented in MATLAB environment. A main p
         <li>Generate a set of input variables, in terms of number, n, (number of interval) and shape (triangular, trapezoidal, Gaussian) of the fuzzy inputs</li>
         <li>Perform analysis by solving the EoM for each input variables in step 2 to calculate the outputs</li>
         <li>Statistical analysis of the results and determine the related input and outputs</li>
-   </ul>
-
+    </ul>
   </div>
-  
   <div class="col-md-6 col-sm-12" style="background-color:transparent"> 
-     <ul>
+   <ul>
      <p><img src="{{ site.url }}{{ site.baseurl }}/software/uqssl/uqssl.png" width="100%"/></p>
    </ul>
   </div>
