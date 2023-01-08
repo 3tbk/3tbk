@@ -8,8 +8,6 @@ permalink: /
 ### Welcome!
 
 Welcome to Dr. Tran's page. <br/>
-I specialize in the field of structural engineering. My research aims to improve the structural resistance and to limit its risk factors against natural hazards. <br/>
-
 During the operating conditions, the structural components (i.e., flange joint, tower shell or nulcear facilities) can fail, leading to the complete failure of the structure. Therefore, it is necessary to understand the performance of these components in practical design. <br/>
 
 <div class="container">
