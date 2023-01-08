@@ -13,9 +13,20 @@ My works aim on the development and enhancement of structural designs to improve
 <div class="container">
 <div class="row">
 <center>
-<img src="{{ site.url }}{{ site.baseurl }}/images/banner1.jpg" width="100%"/><br/>
-Failures of L-type flaneg joints. <br/>
-T.T. Tran, Understanding the behavior of l-type flange joint in wind turbine towers: Proposed mechanisms <i>Engineering Failure Analysis</i> (2022)
+    <div class="col-md-6 col-sm-12" style="background-color:transparent"> 
+   <ul>
+     <p><img src="{{ site.url }}{{ site.baseurl }}/images/failure-tower.png" width="100%"/></p>
+     Failures of L-type flaneg joints.
+   </ul>
+  </div>
+      
+  <div class="col-md-6 col-sm-12" style="background-color:transparent">
+   <ul>
+     <p><img src="{{ site.url }}{{ site.baseurl }}/software/uqssl/uqssl2.png" width="100%"/></p>
+   </ul>
+  </div>
+  
+
 </center>
 </div>
 </div>
