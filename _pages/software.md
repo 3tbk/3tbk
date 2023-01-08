@@ -101,40 +101,43 @@ KSMAP is a tool for calculating the peak ground acceleration (PGA) in Korean Pen
 </div>
 
 
-
 <div class="jumbotron">
 <div class="row align-items-end">
-<div class="col-md-12 col-sm-12">
-<h4><b>VC4OWT: Vibration Control of Offshore Wind Turbine</b></h4>
-<a href="https://1drv.ms/u/s!AiUeXuxJtpnDweEmJPFPgx0JaYLRPQ?e=6v4TyY" target="_blank"><button class="btn btn-success btn-sm">SOURCE</button></a>
-<a href="{{ site.url }}{{ site.baseurl }}/software/vc4owt/VC4OWT.pdf" target="_blank"><button class="btn btn-info btn-sm">MANUAL</button></a>
-<a href="{{ site.url }}{{ site.baseurl }}/papers/2018-Tran-VSOE.PDF" target="_blank"><button class="btn btn-danger btn-sm">PAPER</button></a> 
-<a href="{{ site.url }}{{ site.baseurl }}/software/vc4owt/copyright.pdf" target="_blank"><button class="btn btn-warning btn-sm">COPYRIGHT</button></a> 
-
-
-<b>Authors:</b>
-<i>Thanh-Tuan Tran, Minh-Luong Le and Dookie Kim</i>
-</div>
-  <div class="col-md-6 col-sm-12">   
+  <div class="col-md-12 col-sm-12">   
+  <h4><b>VC4OWT: Vibration Control of Offshore Wind Turbine</b></h4>
+  <a href="https://1drv.ms/u/s!AiUeXuxJtpnDweEmJPFPgx0JaYLRPQ?e=6v4TyY" target="_blank"><button class="btn btn-success btn-sm">SOURCE</button></a>
+  <a href="{{ site.url }}{{ site.baseurl }}/software/vc4owt/VC4OWT.pdf" target="_blank"><button class="btn btn-info btn-sm">MANUAL</button></a>
+  <a href="{{ site.url }}{{ site.baseurl }}/papers/2018-Tran-VSOE.PDF" target="_blank"><button class="btn btn-danger btn-sm">PAPER</button></a> 
+  <a href="{{ site.url }}{{ site.baseurl }}/software/vc4owt/copyright.pdf" target="_blank"><button class="btn btn-warning btn-sm">COPYRIGHT</button></a> 
+  
+  <b>Authors:</b>
+  <i>Thanh-Tuan Tran, Minh-Luong Le and Dookie Kim</i>
+  </div>
+  
+  <div class="col-md-6 col-sm-12">      
 VC4OWT is a graphical user interface for vibration control of the OWT structure based on OpenSees. The tool can consider the structural performances of OWT in the case of: 
     
    <ul>
         <li>w/wo friction damper</li>
         <li>w/wo SSI</li>
    </ul>
- The software consists of four main groups. 
+    
+ The software consists of five main groups:
+    
    <ul>
-        <li>Group 1: Input</li>
-        <li>Group 2: Analysis cases</li>
-        <li>Group 3: Analysis types</li>
-        <li>Group 4: Results</li>
-        <li>Group 5: Graphic</li>
+         <li>Group 1: Input</li>
+         <li>Group 2: Analysis cases</li>
+         <li>Group 3: Analysis types</li>
+         <li>Group 4: Results</li>
+         <li>Group 5: Graphic</li>
    </ul>
+    
   </div>
   <div class="col-md-6 col-sm-12" style="background-color:transparent">
-    <ul>
-      <img src="{{ site.url }}{{ site.baseurl }}/software/vc4owt/vc4owt.png" width="50%"/>
-    </ul>
+   <ul>
+     <p><img src="{{ site.url }}{{ site.baseurl }}/software/vc4owt/vc4owt.png" width="100%"/></p>
+   </ul>
   </div>
-</div>
+    
+  </div>
 </div>
