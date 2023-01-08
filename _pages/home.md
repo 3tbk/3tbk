@@ -13,7 +13,7 @@ My works aim on the development and enhancement of structural designs to improve
 <div class="container">
 <div class="row">
 
-    <div class="col-md-6 col-sm-12" style="background-color:transparent"> 
+  <div class="col-md-6 col-sm-12" style="background-color:transparent"> 
    <ul>
      <p><img src="{{ site.url }}{{ site.baseurl }}/images/failure-tower.png" width="100%"/></p>
      Failures of tower shell.
