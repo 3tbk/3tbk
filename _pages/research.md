@@ -31,17 +31,6 @@ iframe {
 </style>
 
 ## Research
-
-#<div class="jumbotron">
-#<div class="col-md-12 col-sm-12">
-#<h4> Research</h4>
-
-# TBU   
-   
-#</div>
-#</div>
-
-
 <div class="container-fluid px-md-5">
 <div class="row justify-content-center py-5 mt-5">
 <div class="col-md-12 heading-section text-center ftco-animate">
