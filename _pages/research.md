@@ -31,14 +31,7 @@ iframe {
 </style>
 
 ## Research
-<div class="container-fluid px-md-5">
-<div class="row justify-content-center py-5 mt-5">
-<div class="col-md-12 heading-section text-center ftco-animate">
-    <h1 class="big big-2">Publications</h1>
-    <h2 class="mb-4">Publications</h2>
-</div>
-</div>
-</div>
+
 <div class="container">
 <div class="row">
     <div class="col-md-3">
