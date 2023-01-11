@@ -32,14 +32,51 @@ iframe {
 
 ## Research
 
-<div class="jumbotron">
-<div class="col-md-12 col-sm-12">
-<h4> Research</h4>
+#<div class="jumbotron">
+#<div class="col-md-12 col-sm-12">
+#<h4> Research</h4>
 
- TBU
- 
-    
+# TBU   
    
+#</div>
+#</div>
+
+
+<div class="container-fluid px-md-5">
+<div class="row justify-content-center py-5 mt-5">
+<div class="col-md-12 heading-section text-center ftco-animate">
+    <h1 class="big big-2">Publications</h1>
+    <h2 class="mb-4">Publications</h2>
+</div>
+</div>
+</div>
+<div class="container">
+<div class="row">
+    <div class="col-md-3">
+	<nav id="navi">
+	    <ul>
+		<li><a href="#page-1p">Peer-reviewed Articles</a></li>
+		<li><a href="#page-2p">Book Chapters</a></li>
+		<li><a href="#page-3p">Conference Proceedings</a></li>   
+		<li><a href="#page-4p">Oral Presentations</a></li>
+		<li><a href="#page-5p">Posters</a></li>
+		<li><a href="#page-6p">Invited Talks</a></li>
+		<li><a href="#page-7p">Media</a></li>     
+	    </ul>
+	</nav>
+    </div>
+    <div class="col-md-9">
+	<div id="page-1p" class="page one">
+	    <h2 class="heading">Peer-reviewed Articles</h2>
+	    <div class="resume-wrap d-flex ftco-animate">
+		<div class="text pl-3">
+		    <ol reversed>
+			<li><span class="label label-success">Elsevier EMS'22</span>Tarabih, O., <b>Dang, T.D.</b>, Paudel, R., Arias, M. (2022). <a href="https://www.sciencedirect.com/science/article/abs/pii/S1364815222003036?via%3Dihub">Lake operation optimization of nutrient exports: Application of phosphorus control in the largest subtropical lake in the United States</a>. <i>Environmental Modeling and Software</i>, 160, 105603.</li>    				
+		    </ol>
+		</div>
+	    </div>			
+	</div>    
+    </div>
 </div>
 </div>
 
