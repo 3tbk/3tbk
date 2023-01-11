@@ -31,7 +31,8 @@ iframe {
 </style>
 
 ## Research
-
+<div class="jumbotron">
+<div class="row align-items-end">
 <div class="container">
 <div class="row">
     <div class="col-md-3">
@@ -61,4 +62,5 @@ iframe {
     </div>
 </div>
 </div>
-
+</div>
+</div>
