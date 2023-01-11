@@ -33,18 +33,10 @@ iframe {
 ## Research
 <div class="jumbotron">
 <div class="row align-items-end">
-<div class="container">
-<div class="row">
     <div class="col-md-3">
 	<nav id="navi">
 	    <ul>
 		<li><a href="#page-1p">Peer-reviewed Articles</a></li>
-		<li><a href="#page-2p">Book Chapters</a></li>
-		<li><a href="#page-3p">Conference Proceedings</a></li>   
-		<li><a href="#page-4p">Oral Presentations</a></li>
-		<li><a href="#page-5p">Posters</a></li>
-		<li><a href="#page-6p">Invited Talks</a></li>
-		<li><a href="#page-7p">Media</a></li>     
 	    </ul>
 	</nav>
     </div>
@@ -60,7 +52,5 @@ iframe {
 	    </div>			
 	</div>    
     </div>
-</div>
-</div>
 </div>
 </div>
