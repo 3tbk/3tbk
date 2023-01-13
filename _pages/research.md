@@ -35,15 +35,11 @@ iframe {
 <div class="jumbotron">
 <div class="row align-items-end">
   <div class="col-md-12 col-sm-12">   
-  <h4><b>II.	Development of IoT-based monitoring system for offshore wind</b></h4>
-  
+  <h4><b>Development of IoT-based monitoring system for offshore wind</b></h4>
     <b>Objective</b>
- 
-Development of smart safety evaluation technology for offshore wind power support structures using digital twin technology
-    <b>Concept of Digital Twin </b>
-    The concept of digital twin is as below:   
-
-
+    Development of smart safety evaluation technology for offshore wind power support structures using digital twin technology
+    <b>Concept of Digital Twin</b>
+    The concept of digital twin is as below:
    <ul>
         <li>A numerical model of an offshore wind turbine is created using ANSYS software.</li>
         <li>Having the wind turbine fully characterized, the FEM is calibrated using data from Data Acquisition. Both measured and simulated responses allow the identification and validation of structural dynamic properties and dynamic performances.</li>
