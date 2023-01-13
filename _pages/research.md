@@ -37,8 +37,10 @@ iframe {
   <div class="col-md-12 col-sm-12">   
   <h4><b>Development of IoT-based monitoring system for offshore wind</b></h4>
     <i>Objective</i>
+    
     Development of smart safety evaluation technology for offshore wind power support structures using digital twin technology
     <i>Concept of Digital Twin</i>
+    
     The concept of digital twin is as below:
    <ul>
         <li>A numerical model of an offshore wind turbine is created using ANSYS software.</li>
