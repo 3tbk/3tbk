@@ -39,6 +39,7 @@ iframe {
     <i>Objective</i>
     
     Development of smart safety evaluation technology for offshore wind power support structures using digital twin technology
+    
     <i>Concept of Digital Twin</i>
     
     The concept of digital twin is as below:
