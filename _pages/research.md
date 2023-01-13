@@ -36,9 +36,11 @@ iframe {
 <div class="row align-items-end">
   <div class="col-md-12 col-sm-12">   
   <h4><b>Development of IoT-based monitoring system for offshore wind</b></h4>
-    <b>Objective</b>
+    <i>Objective</i>
+    
     Development of smart safety evaluation technology for offshore wind power support structures using digital twin technology
-    <b>Concept of Digital Twin</b>
+    <i>Concept of Digital Twin</i>
+    
     The concept of digital twin is as below:
    <ul>
         <li>A numerical model of an offshore wind turbine is created using ANSYS software.</li>
@@ -47,7 +49,7 @@ iframe {
    </ul>
     
    <ul>
-     <p><img src="{{ site.url }}{{ site.baseurl }}/software/pshake/pshake.png" width="100%"/></p>
+     <p><img src="{{ site.url }}{{ site.baseurl }}/images/research/digital twin 1.png" width="100%"/></p>
    </ul>
     
   </div>
