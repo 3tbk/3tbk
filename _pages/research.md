@@ -48,8 +48,7 @@ iframe {
    <ul>
      <p><img src="{{ site.url }}{{ site.baseurl }}/images/research/digital twin 1.png" width="70%"/></p>
    </ul>
-    
-     <i>Concept of Digital Twin</i>   
+    <i>Development of Digital Twin</i>   
       <p><img src="{{ site.url }}{{ site.baseurl }}/images/research/digital twin 2.png" width="70%"/></p>
     
   </div>
