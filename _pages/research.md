@@ -61,10 +61,10 @@ iframe {
 <div class="row align-items-end">
   <div class="col-md-12 col-sm-12">   
   <h4><b>Structural Safety Improvement of Wind Tower</b></h4>
-  <i>Introduction</i>    
+  <i>Introduction</i>  
   <p>Ring flange joint with preloaded high strength bolts is the most common solution used to attach wind tower segments to each other. During the operating conditions, the flange may be separated or the bolt may be ruptured, leading to the complete failure of the wind tower structure. Therefore, it is necessary to understand the performance of the flange joints in practical design.</p>
   <i>Existing Failure Modeling </i>
-      <p>The main failures in the bolted flange joint can be classified into three different modes:</p>
+  <p>The main failures in the bolted flange joint can be classified into three different modes:</p>
    <ul>
         <li>Failure mode A: bolt failure only</li>
         <li>Failure mode B: bolt failure along with plastic hinge in flange-to-shell junction</li>
@@ -76,7 +76,7 @@ iframe {
      <p><img src="{{ site.url }}{{ site.baseurl }}/images/research/flange joint 1.png" width="70%"/></p>
    </ul>
     
-   <i>New failure modes</i>
+  <i>New failure modes</i>
    <ul>
         <li>Failure mode B*: yielding of bolt only</li>
         <li>Failure mode B**: yielding of flange-to-shell junction only</li>
