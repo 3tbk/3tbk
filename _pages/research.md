@@ -43,13 +43,10 @@ iframe {
         <li>A numerical model of an offshore wind turbine is created using ANSYS software.</li>
         <li>Having the wind turbine fully characterized, the FEM is calibrated using data from Data Acquisition. Both measured and simulated responses allow the identification and validation of structural dynamic properties and dynamic performances.</li>
         <li>The developed digital twin model will be used to provide a tool for continuous tracking of accumulated fatigue damage and evaluation of alternative operation strategies.</li>
-   </ul>
-    
-   <ul>
+   </ul>    
      <p><img src="{{ site.url }}{{ site.baseurl }}/images/research/digital twin 1.png" width="70%"/></p>
-   </ul>
     
-    <i>Development of Digital Twin</i>
+   <i>Development of Digital Twin</i>
     <ul>
      <p><img src="{{ site.url }}{{ site.baseurl }}/images/research/digital twin 2.png" width="70%"/></p>
     </ul>
