@@ -54,6 +54,8 @@ iframe {
    </ul>
   </div>
 </div>
+</div>
+
 
 <div class="jumbotron">
 <div class="row align-items-end">
@@ -83,4 +85,5 @@ iframe {
      <p><img src="{{ site.url }}{{ site.baseurl }}/images/research/flange joint 2.png" width="70%"/></p>
    </ul>
   </div>
+</div>
 </div>
