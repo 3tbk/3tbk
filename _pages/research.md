@@ -39,7 +39,6 @@ iframe {
   <i>Objective</i>    
   <p>Development of smart safety evaluation technology for offshore wind power support structures using digital twin technology </p>
   <i>Concept of Digital Twin</i>    
-  <p>The concept of digital twin is as below:</p>
    <ul>
         <li>A numerical model of an offshore wind turbine is created using ANSYS software.</li>
         <li>Having the wind turbine fully characterized, the FEM is calibrated using data from Data Acquisition. Both measured and simulated responses allow the identification and validation of structural dynamic properties and dynamic performances.</li>
@@ -47,8 +46,11 @@ iframe {
    </ul>
     
    <ul>
-     <p><img src="{{ site.url }}{{ site.baseurl }}/images/research/digital twin 1.png" width="100%"/></p>
+     <p><img src="{{ site.url }}{{ site.baseurl }}/images/research/digital twin 1.png" width="70%"/></p>
    </ul>
+    
+     <i>Concept of Digital Twin</i>   
+      <p><img src="{{ site.url }}{{ site.baseurl }}/images/research/digital twin 2.png" width="70%"/></p>
     
   </div>
 </div>
