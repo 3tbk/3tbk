@@ -99,12 +99,12 @@ iframe {
   </div>
   <div class="col-md-6 col-sm-12">
    <ul>    
-     <p><img src="{{ site.url }}{{ site.baseurl }}/images/research/cabinet 1.png" width="100%"/></p>
+     <p><img src="{{ site.url }}{{ site.baseurl }}/images/research/cabinet 1.png" height="200"/></p>
    </ul>
   </div>
   <div class="col-md-6 col-sm-12" style="background-color:transparent">
    <ul>
-     <p><img src="{{ site.url }}{{ site.baseurl }}/images/research/cabinet 2.png" width="100%"/></p>
+     <p><img src="{{ site.url }}{{ site.baseurl }}/images/research/cabinet 2.png" height="200"/></p>
    </ul>   
   </div>
   <div class="col-md-12 col-sm-12">   
@@ -113,17 +113,17 @@ iframe {
   </div>
   <div class="col-md-4 col-sm-12">
    <ul>    
-     <p><img src="{{ site.url }}{{ site.baseurl }}/images/research/cabinet 3.png" height="100"/></p>
+     <p><img src="{{ site.url }}{{ site.baseurl }}/images/research/cabinet 3.png" height="200"/></p>
    </ul>
   </div>
   <div class="col-md-4 col-sm-12" style="background-color:transparent">
    <ul>
-     <p><img src="{{ site.url }}{{ site.baseurl }}/images/research/cabinet 4.png" height="100"/></p>
+     <p><img src="{{ site.url }}{{ site.baseurl }}/images/research/cabinet 4.png" height="200"/></p>
    </ul>   
   </div>
   <div class="col-md-4 col-sm-12" style="background-color:transparent">
    <ul>
-     <p><img src="{{ site.url }}{{ site.baseurl }}/images/research/cabinet 5.png" height="100"/></p>
+     <p><img src="{{ site.url }}{{ site.baseurl }}/images/research/cabinet 5.png" height="200"/></p>
    </ul>   
   </div>
 </div>
