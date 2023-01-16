@@ -97,12 +97,12 @@ iframe {
   <i>Introduction</i>  
   <p>In the nuclear industry, the electric cabinet is an indispensable component, which contains many electrical types of equipment installed inside, such as distribution panel, switchboard, lighting panel, and other types of electrical devices for different purposes. Due to the very large number of configurations, it is impossible to perform an experiment test. It is necessary to develop the numerical models to evaluate the dynamic behavior of the full range of electric cabinet.</p>
   </div>
-  <div class="col-md-6 col-sm-12">
+  <div class="col-md-5 col-sm-12">
    <ul>    
      <p><img src="{{ site.url }}{{ site.baseurl }}/images/research/cabinet 1.png" height="200"/></p>
    </ul>
   </div>
-  <div class="col-md-6 col-sm-12" style="background-color:transparent">
+  <div class="col-md-7 col-sm-12" style="background-color:transparent">
    <ul>
      <p><img src="{{ site.url }}{{ site.baseurl }}/images/research/cabinet 2.png" height="200"/></p>
    </ul>   
@@ -111,19 +111,34 @@ iframe {
   <i>Numerical model of cabinet</i>  
   <p>Three models, including the beam stick model, bare-frame model, and full finite element model, are developed that consider the nonlinear effects. Detailed explaination are as:</p>
   </div>
-  <div class="col-md-4 col-sm-12">
+  <div class="col-md-3 col-sm-12">
    <ul>    
      <p><img src="{{ site.url }}{{ site.baseurl }}/images/research/cabinet 3.png" height="200"/></p>
+     Beam-stick model
+        <li>Nonlinear model</li>
+        <li>Cabinet is modelled as vertical beam</li>
+        <li>Consider effect of axial force and restoring force</li>
+        <li>Fixed boundary conditions at base</li>
    </ul>
   </div>
-  <div class="col-md-4 col-sm-12" style="background-color:transparent">
+  <div class="col-md-5 col-sm-12" style="background-color:transparent">
    <ul>
      <p><img src="{{ site.url }}{{ site.baseurl }}/images/research/cabinet 4.png" height="200"/></p>
+     Bare-frame model
+        <li>Nonlinear model</li>
+        <li>Cabinet is modelled with frame element only</li>
+        <li>Consider the local buckling modese</li>
+        <li>Fixed boundary conditions at base</li>
    </ul>   
   </div>
   <div class="col-md-4 col-sm-12" style="background-color:transparent">
    <ul>
      <p><img src="{{ site.url }}{{ site.baseurl }}/images/research/cabinet 5.png" height="200"/></p>
+     Full FEM model
+        <li>Nonlinear model</li>
+        <li>Full cabinet model with plate and frame members</li>
+        <li>Nonlinear connections between plate and frame </li>
+        <li>Consider effect of anchor bolts at base</li>
    </ul>   
   </div>
 </div>
