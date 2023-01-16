@@ -128,12 +128,12 @@ iframe {
    </ul>   
   </div>
   <div class="col-md-4 col-sm-12" style="background-color:transparent">
-  
+   <ul>   
      <center>
        <p><img src="{{ site.url }}{{ site.baseurl }}/images/research/cabinet 5.png" height="200"/></p>
        Full <a href="{{ site.url }}{{ site.baseurl }}/papers/2021-Tran-NSE.pdf" target="_blank"> FEM model</a>
      </center>
- 
+   </ul>   
   </div>
 </div>
 </div>
