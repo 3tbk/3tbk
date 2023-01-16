@@ -115,36 +115,24 @@ iframe {
    <ul>    
      <p><img src="{{ site.url }}{{ site.baseurl }}/images/research/cabinet 3.png" height="200"/></p>
      <center>
-       Beam-stick model
-     </center>
-      #  <li>Nonlinear model</li>
-      #  <li>Cabinet is modelled as vertical beam</li>
-      # <li>Consider effect of axial force and restoring force</li>
-      #  <li>Fixed boundary conditions at base</li>
+     <a href="/papers/2019-Tran-NED.pdf" target="_blank"> Beam-stick model
+     </center>     
    </ul>
   </div>
   <div class="col-md-4 col-sm-12" style="background-color:transparent">
    <ul>
      <center>
      <p><img src="{{ site.url }}{{ site.baseurl }}/images/research/cabinet 4.png" height="200"/></p>
-     Bare-frame model
+     <a href="/papers/2021-Tran-NET.pdf" target="_blank"> Bare-frame model
      </center>
-     #   <li>Nonlinear model</li>
-     #   <li>Cabinet is modelled with frame element only</li>
-     #   <li>Consider the local buckling modese</li>
-     #   <li>Fixed boundary conditions at base</li>
    </ul>   
   </div>
   <div class="col-md-4 col-sm-12" style="background-color:transparent">
    <ul>
      <center>
      <p><img src="{{ site.url }}{{ site.baseurl }}/images/research/cabinet 5.png" height="200"/></p>
-     Full FEM model
+     Full <a href="/papers/2021-Tran-NSE.pdf" target="_blank"> FEM model
      </center>
-    #    <li>Nonlinear model</li>
-    #    <li>Full cabinet model with plate and frame members</li>
-    #    <li>Nonlinear connections between plate and frame </li>
-    #    <li>Consider effect of anchor bolts at base</li>
    </ul>   
   </div>
 </div>
