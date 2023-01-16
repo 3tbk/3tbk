@@ -115,23 +115,23 @@ iframe {
    <ul>    
      <p><img src="{{ site.url }}{{ site.baseurl }}/images/research/cabinet 3.png" height="200"/></p>
      <center>
-     <a href="/papers/2019-Tran-NED.pdf" target="_blank"> Beam-stick model
+        <a href="{{ site.url }}{{ site.baseurl }}/papers/2019-Tran-NED.pdf" target="_blank"> Beam-stick model
      </center>     
    </ul>
   </div>
   <div class="col-md-4 col-sm-12" style="background-color:transparent">
    <ul>
-     <center>
-     <p><img src="{{ site.url }}{{ site.baseurl }}/images/research/cabinet 4.png" height="200"/></p>
-     <a href="/papers/2021-Tran-NET.pdf" target="_blank"> Bare-frame model
-     </center>
+         <center>
+       <p><img src="{{ site.url }}{{ site.baseurl }}/images/research/cabinet 4.png" height="200"/></p>
+       <a href="{{ site.url }}{{ site.baseurl }}/papers/2021-Tran-NET.pdf" target="_blank"> Bare-frame model
+         </center>
    </ul>   
   </div>
   <div class="col-md-4 col-sm-12" style="background-color:transparent">
    <ul>
      <center>
-     <p><img src="{{ site.url }}{{ site.baseurl }}/images/research/cabinet 5.png" height="200"/></p>
-     Full <a href="{{ site.url }}{{ site.baseurl }}/papers/2021-Tran-NSE.pdf" target="_blank"> FEM model
+       <p><img src="{{ site.url }}{{ site.baseurl }}/images/research/cabinet 5.png" height="200"/></p>
+       Full <a href="{{ site.url }}{{ site.baseurl }}/papers/2021-Tran-NSE.pdf" target="_blank"> FEM model
      </center>
    </ul>   
   </div>
