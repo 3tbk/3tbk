@@ -35,7 +35,7 @@ iframe {
 <div class="jumbotron">
 <div class="row align-items-end">
   <div class="col-md-12 col-sm-12">   
-  <h4><b>Development of IoT-based monitoring system for offshore wind</b></h4>
+  <h4><b>Development of IoT-based Monitoring System for Offshore Wind</b></h4>
   <i>Objective</i>    
   <p>Development of smart safety evaluation technology for offshore wind power support structures using digital twin technology </p>
   <i>Concept of Digital Twin</i>    
@@ -93,7 +93,7 @@ iframe {
 <div class="jumbotron">
 <div class="row align-items-end">
   <div class="col-md-12 col-sm-12">   
-  <h4><b>Development numerical model of nuclear facilities</b></h4>
+  <h4><b>Development of Numerical Model for Nuclear Facilities</b></h4>
   <i>Introduction</i>  
   <p>In the nuclear industry, the electric cabinet is an indispensable component, which contains many electrical types of equipment installed inside, such as distribution panel, switchboard, lighting panel, and other types of electrical devices for different purposes. Due to the very large number of configurations, it is impossible to perform an experiment test. It is necessary to develop the numerical models to evaluate the dynamic behavior of the full range of electric cabinet.</p>
   </div>
@@ -113,17 +113,17 @@ iframe {
   </div>
   <div class="col-md-4 col-sm-12">
    <ul>    
-     <p><img src="{{ site.url }}{{ site.baseurl }}/images/research/cabinet 3.png" width="100%"/></p>
+     <p><img src="{{ site.url }}{{ site.baseurl }}/images/research/cabinet 3.png" height="7%"/></p>
    </ul>
   </div>
   <div class="col-md-4 col-sm-12" style="background-color:transparent">
    <ul>
-     <p><img src="{{ site.url }}{{ site.baseurl }}/images/research/cabinet 4.png" width="100%"/></p>
+     <p><img src="{{ site.url }}{{ site.baseurl }}/images/research/cabinet 4.png" height="100%"/></p>
    </ul>   
   </div>
   <div class="col-md-4 col-sm-12" style="background-color:transparent">
    <ul>
-     <p><img src="{{ site.url }}{{ site.baseurl }}/images/research/cabinet 5.png" width="100%"/></p>
+     <p><img src="{{ site.url }}{{ site.baseurl }}/images/research/cabinet 5.png" height="100%"/></p>
    </ul>   
   </div>
 </div>
