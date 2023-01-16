@@ -115,7 +115,7 @@ iframe {
    <ul>    
      <p><img src="{{ site.url }}{{ site.baseurl }}/images/research/cabinet 3.png" height="200"/></p>
      <center>
-        <a href="{{ site.url }}{{ site.baseurl }}/papers/2019-Tran-NED.pdf" target="_blank"> Beam-stick model
+        <a href="{{ site.url }}{{ site.baseurl }}/papers/2019-Tran-NED.pdf" target="_blank"> Beam-stick model</a>
      </center>     
    </ul>
   </div>
@@ -123,7 +123,7 @@ iframe {
    <ul>
          <center>
        <p><img src="{{ site.url }}{{ site.baseurl }}/images/research/cabinet 4.png" height="200"/></p>
-       <a href="{{ site.url }}{{ site.baseurl }}/papers/2021-Tran-NET.pdf" target="_blank"> Bare-frame model
+       <a href="{{ site.url }}{{ site.baseurl }}/papers/2021-Tran-NET.pdf" target="_blank"> Bare-frame model</a>
          </center>
    </ul>   
   </div>
@@ -131,7 +131,7 @@ iframe {
    <ul>
      <center>
        <p><img src="{{ site.url }}{{ site.baseurl }}/images/research/cabinet 5.png" height="200"/></p>
-       Full <a href="{{ site.url }}{{ site.baseurl }}/papers/2021-Tran-NSE.pdf" target="_blank"> FEM model
+       Full <a href="{{ site.url }}{{ site.baseurl }}/papers/2021-Tran-NSE.pdf" target="_blank"> FEM model</a>
      </center>
    </ul>   
   </div>
