@@ -107,22 +107,5 @@ iframe {
    </ul>   
   </div>
   </div>
-  <i>Numerical model of cabinet</i>
-  <div class="col-md-12 col-sm-12">      
-KSMAP is a tool for calculating the peak ground acceleration (PGA) in Korean Peninsula. The procedure is as below:
-
-   <ul>
-        <li>STEP 1: Select the map (e.g., 2013-0050)</li>
-        <li>STEP 2: Set the coordinate from the map</li>
-        <li>STEP 3: Compute the PGA value (g)</li>
-   </ul>
-  </div>
-  <div class="col-md-6 col-sm-12" style="background-color:transparent">
-   <ul>
-     <p><img src="{{ site.url }}{{ site.baseurl }}/images/research/cabinet 2.png" width="70%"/></p>
-   </ul>
-  </div>
-
-
 </div>
 </div>
