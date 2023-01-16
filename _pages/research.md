@@ -111,7 +111,7 @@ iframe {
   <i>Numerical model of cabinet</i>  
   <p>Three models, including the beam stick model, bare-frame model, and full finite element model, are developed that consider the nonlinear effects. Detailed explaination are as:</p>
   </div>
-  <div class="col-md-3 col-sm-12">
+  <div class="col-md-3 col-sm-12" style="background-color:transparent"> 
    <ul>    
      <p><img src="{{ site.url }}{{ site.baseurl }}/images/research/cabinet 3.png" height="200"/></p>
      Beam-stick model
