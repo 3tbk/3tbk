@@ -111,34 +111,40 @@ iframe {
   <i>Numerical model of cabinet</i>  
   <p>Three models, including the beam stick model, bare-frame model, and full finite element model, are developed that consider the nonlinear effects. Detailed explaination are as:</p>
   </div>
-  <div class="col-md-3 col-sm-12" style="background-color:transparent"> 
+  <div class="col-md-4 col-sm-12" style="background-color:transparent"> 
    <ul>    
      <p><img src="{{ site.url }}{{ site.baseurl }}/images/research/cabinet 3.png" height="200"/></p>
-     Beam-stick model
-        <li>Nonlinear model</li>
-        <li>Cabinet is modelled as vertical beam</li>
-        <li>Consider effect of axial force and restoring force</li>
-        <li>Fixed boundary conditions at base</li>
+     <center>
+       Beam-stick model
+     </center>
+      #  <li>Nonlinear model</li>
+      #  <li>Cabinet is modelled as vertical beam</li>
+      # <li>Consider effect of axial force and restoring force</li>
+      #  <li>Fixed boundary conditions at base</li>
    </ul>
   </div>
-  <div class="col-md-5 col-sm-12" style="background-color:transparent">
+  <div class="col-md-4 col-sm-12" style="background-color:transparent">
    <ul>
+     <center>
      <p><img src="{{ site.url }}{{ site.baseurl }}/images/research/cabinet 4.png" height="200"/></p>
      Bare-frame model
-        <li>Nonlinear model</li>
-        <li>Cabinet is modelled with frame element only</li>
-        <li>Consider the local buckling modese</li>
-        <li>Fixed boundary conditions at base</li>
+     </center>
+     #   <li>Nonlinear model</li>
+     #   <li>Cabinet is modelled with frame element only</li>
+     #   <li>Consider the local buckling modese</li>
+     #   <li>Fixed boundary conditions at base</li>
    </ul>   
   </div>
   <div class="col-md-4 col-sm-12" style="background-color:transparent">
    <ul>
+     <center>
      <p><img src="{{ site.url }}{{ site.baseurl }}/images/research/cabinet 5.png" height="200"/></p>
      Full FEM model
-        <li>Nonlinear model</li>
-        <li>Full cabinet model with plate and frame members</li>
-        <li>Nonlinear connections between plate and frame </li>
-        <li>Consider effect of anchor bolts at base</li>
+     </center>
+    #    <li>Nonlinear model</li>
+    #    <li>Full cabinet model with plate and frame members</li>
+    #    <li>Nonlinear connections between plate and frame </li>
+    #    <li>Consider effect of anchor bolts at base</li>
    </ul>   
   </div>
 </div>
