@@ -99,14 +99,32 @@ iframe {
   </div>
   <div class="col-md-6 col-sm-12">
    <ul>    
-     <p><img src="{{ site.url }}{{ site.baseurl }}/images/research/cabinet 1.png" width="70%"/></p>
+     <p><img src="{{ site.url }}{{ site.baseurl }}/images/research/cabinet 1.png" width="100%"/></p>
    </ul>
   </div>
   <div class="col-md-6 col-sm-12" style="background-color:transparent">
    <ul>
-     <p><img src="{{ site.url }}{{ site.baseurl }}/images/research/cabinet 2.png" width="70%"/></p>
+     <p><img src="{{ site.url }}{{ site.baseurl }}/images/research/cabinet 2.png" width="100%"/></p>
    </ul>   
   </div>
-  
+  <div class="col-md-12 col-sm-12">   
+  <i>Numerical model of cabinet</i>  
+  <p>Three models, including the beam stick model, bare-frame model, and full finite element model, are developed that consider the nonlinear effects. Detailed explaination are as:</p>
+  </div>
+  <div class="col-md-4 col-sm-12">
+   <ul>    
+     <p><img src="{{ site.url }}{{ site.baseurl }}/images/research/cabinet 3.png" width="100%"/></p>
+   </ul>
+  </div>
+  <div class="col-md-4 col-sm-12" style="background-color:transparent">
+   <ul>
+     <p><img src="{{ site.url }}{{ site.baseurl }}/images/research/cabinet 4.png" width="100%"/></p>
+   </ul>   
+  </div>
+  <div class="col-md-4 col-sm-12" style="background-color:transparent">
+   <ul>
+     <p><img src="{{ site.url }}{{ site.baseurl }}/images/research/cabinet 5.png" width="100%"/></p>
+   </ul>   
+  </div>
 </div>
 </div>
