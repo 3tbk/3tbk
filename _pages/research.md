@@ -131,7 +131,7 @@ iframe {
    <ul>
      <center>
      <p><img src="{{ site.url }}{{ site.baseurl }}/images/research/cabinet 5.png" height="200"/></p>
-     Full <a href="/papers/2021-Tran-NSE.pdf" target="_blank"> FEM model
+     Full <a href="{{ site.url }}{{ site.baseurl }}/papers/2021-Tran-NSE.pdf" target="_blank"> FEM model
      </center>
    </ul>   
   </div>
