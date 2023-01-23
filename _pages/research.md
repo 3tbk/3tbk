@@ -48,7 +48,7 @@ iframe {
   <div class="col-md-6 col-sm-12" style="background-color:transparent">
    <ul>
       <center>
-       <p><img src="{{ site.url }}{{ site.baseurl }}/images/research/digital twin 1.png" height="200"/></p>
+       <p><img src="{{ site.url }}{{ site.baseurl }}/images/research/digital twin 1.png" height="180"/></p>
         Concept of Digital Twin
       </center>
    </ul>   
@@ -56,7 +56,7 @@ iframe {
   <div class="col-md-6 col-sm-12" style="background-color:transparent">
    <ul>   
      <center>
-       <p><img src="{{ site.url }}{{ site.baseurl }}/images/research/digital twin 2.png" height="200"/></p>
+       <p><img src="{{ site.url }}{{ site.baseurl }}/images/research/digital twin 2.png" height="180"/></p>
        Development of Digital Twin
      </center>
    </ul>   
