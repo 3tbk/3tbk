@@ -53,6 +53,21 @@ iframe {
      <p><img src="{{ site.url }}{{ site.baseurl }}/images/research/digital twin 2.png" width="70%"/></p>
    </ul>
   </div>
+  <div class="col-md-6 col-sm-12" style="background-color:transparent">
+   <ul>
+      <center>
+       <p><img src="{{ site.url }}{{ site.baseurl }}/images/research/digital twin 1.png" height="200"/></p>
+      </center>
+   </ul>   
+  </div>
+  <div class="col-md-6 col-sm-12" style="background-color:transparent">
+   <ul>   
+     <center>
+       <p><img src="{{ site.url }}{{ site.baseurl }}/images/research/digital twin 2.png" height="200"/></p>
+       Development of Digital Twin
+     </center>
+   </ul>   
+  </div>
 </div>
 </div>
 
