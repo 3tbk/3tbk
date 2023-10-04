@@ -35,7 +35,7 @@ During the operating conditions, the structural components (i.e., flange joint, 
 
 ### About me
 
-Thanh-Tuan Tran, Ph.D., is a senior researcher at Energy Innovation Research Center for Wind Turbine Support Structures, Kunsan National University, South Korea. Previously, he served as lecturer at Quy Nhon University (Vietnam) in 12 years.
+Thanh-Tuan Tran (Jay), Ph.D., is a senior researcher at Energy Innovation Research Center for Wind Turbine Support Structures, Kunsan National University, South Korea. Previously, he served as lecturer at Quy Nhon University (Vietnam) in 12 years.
 
 He received Bachelor and Master degrees in civil engineering from Ho Chi Minh City University of Technology (Vietnam), and Doctorate degree in structural earthquake engineering at Kunsan National University (South Korea). 
 
